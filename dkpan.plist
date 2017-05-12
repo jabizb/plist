@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://d11.baidupcs.com/file/a4910612d0ec40f73ef3d4fe61fb95c0?bkt=p3-000073d318e323036e64e92c225fa2c364b5&amp;xcode=117fe22ea126534f40024118c253ac54d9cdd3d7fe9fa87694b92e463168dc1b&amp;fid=178989203-250528-809604747901845&amp;time=1494590689&amp;sign=FDTAXGERLBHS-DCb740ccc5511e5e8fedcff06b081203-DTIXLagsLoRO89qcmMUYXblK9Jc%3D&amp;to=d11&amp;size=89108321&amp;sta_dx=89108321&amp;sta_cs=104&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=MH,Yangquan,Netizen-anywhere,,guangdong,ct&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=000073d318e323036e64e92c225fa2c364b5&amp;sl=73662542&amp;expires=8h&amp;rt=sh&amp;r=971654274&amp;mlogid=3057664938707287935&amp;vuk=178989203&amp;vbdid=397454612&amp;fin=7630.ipa&amp;fn=7630.ipa&amp;rtype=1&amp;iv=0&amp;dp-logid=3057664938707287935&amp;dp-callid=0.1.1&amp;hps=1&amp;csl=187&amp;csign=S25SSoTqiWk8fbMVRxSn%2FDqjEyM%3D&amp;by=themis</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://7xweyh.com1.z0.glb.clouddn.com/Icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://7xweyh.com1.z0.glb.clouddn.com/Icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tencent.xin.dailybuild</string>
+				<key>bundle-version</key>
+				<string>0.0.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>微信多开</string>
+				<key>title</key>
+				<string>微信多开-关注公众号：jabizb</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

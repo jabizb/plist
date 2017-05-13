@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://git.oschina.net/jabi/yalu/attach_files/download?i=81408&amp;u=http%3A%2F%2Ffiles.git.oschina.net%2Fgroup1%2FM00%2F01%2F3F%2FPaAvDFkXEyOAd3PdAUqpWaULgYE123.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>kim.cracksby.yalu102</string>
+				<key>bundle-version</key>
+				<string>1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>yalu102</string>
+				<key>title</key>
+				<string>yalu102-更多好玩关注公众号：jabizb</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

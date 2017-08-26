@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bnfdiogs8l7gd110qt18173mv7.ipa?e=1519270682&amp;token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:jDR8eFZRdubF5ZrwN2N6CUvdEbE=</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xunlei.iosthunder</string>
+				<key>bundle-version</key>
+				<string>5.29.1.2316</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>迅雷</string>
+				<key>title</key>
+				<string>迅雷beta-更多好玩关注公众号：jabizb</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

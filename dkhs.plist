@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainfree002_651432_56efc2e6-20fe-4839-a16a-633b103da5e7.ipa</string>
+					<string>https://s.beta.myapp.com/myapp/rdmexp/exp/file/comagainfree022_65832_f8b2cb0c-8635-457b-9d30-e8a76b926a85.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.again.free002</string>
+				<string>com.again.free001</string>
 				<key>bundle-version</key>
 				<string>6.5.8.32</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>神器黑色-更多好玩关注公众号：jabizb</string>
+				<string>神器紫色-更多好玩关注公众号：jabizb</string>
 			</dict>
 		</dict>
 	</array>

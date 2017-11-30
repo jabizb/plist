@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://qdhw.leaderhero.com/new2/20171117/WeiXin_v6.5.9(os8.0)_171117155702_app.tongbu.com.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.again.free002</string>
+				<key>bundle-version</key>
+				<string>6.5.8.32</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>微信3-更多好玩关注公众号：jabizb</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

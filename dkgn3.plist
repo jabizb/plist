@@ -25,9 +25,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.again.free002</string>
+				<string>com.tencent.xin.ymsoft</string>
 				<key>bundle-version</key>
-				<string>6.5.8.32</string>
+				<string>6.5.22</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

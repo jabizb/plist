@@ -17,17 +17,17 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>http://www.recscreen.com/ios_download/largeImage.png</string>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
-					<string>http://www.recscreen.com/ios_download/smallImage.png</string>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>苹果录屏专家</string>
 				<key>title</key>
-				<string>苹果录屏专家-关注公众号：jabizb</string>
+				<string>苹果录屏专家-更多好玩关注公众号：jabizb</string>
 			</dict>
 		</dict>
 	</array>

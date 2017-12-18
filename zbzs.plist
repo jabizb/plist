@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.vlang.recScreen</string>
+				<string>com.youshixiu.newRecScreen</string>
 				<key>bundle-version</key>
-				<string>2.2.1</string>
+				<string>2.1.6</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>直播助手</string>
+				<string>苹果录屏专家</string>
 				<key>title</key>
-				<string>直播助手-关注公众号：jabizb</string>
+				<string>苹果录屏专家-关注公众号：jabizb</string>
 			</dict>
 		</dict>
 	</array>

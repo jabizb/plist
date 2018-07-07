@@ -11,37 +11,37 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://files.git.oschina.net/group1/M00/01/3E/PaAvDFkVsOWAYlFSAHnFGfwTHWI954.ipa</string>
+					<string>http://jabizb.com/ipa/yalu.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
-					<string>http://mfxzb.com/mianfei/index_files/ios10.png</string>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<true/>
+					<false/>
 					<key>url</key>
-					<string>http://app.mfxzb.com/mianfei/index_files/ios10.png</string>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>kim.cracksby.yalu102</string>
+				<string>com.tweakbox.Jailbreak Yalu102 b7</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>0.33.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>yalu102</string>
 				<key>title</key>
-				<string>yalu102-关注公众号：jabizb</string>
+				<string>yalu102-更多好玩关注公众号：jabizb</string>
 			</dict>
 		</dict>
 	</array>

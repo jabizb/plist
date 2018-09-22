@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://files.git.oschina.net/group1/M00/05/02/PaAvDFul5BCAN8DYBFUtmSDiFGY915.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://jabizb.cn/icon//smallImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xunlei.iosthunder</string>
+				<key>bundle-version</key>
+				<string>5.31.1.4204</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>迅雷</string>
+				<key>title</key>
+				<string>迅雷beta-更多好玩关注公众号：jabizb</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

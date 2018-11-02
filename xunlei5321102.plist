@@ -8,10 +8,10 @@
 			<key>assets</key>
 			<array>
 				<dict>
-					<key>kind</key>https://down.tutuapp.net/apps/zb/003/29/14/64/5bdbe2f61a2ab4e161b8344a.ipa?md=2ca1a3b22bb5e042c370aa192c49527a</string>
+					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>
+					<string>https://down.tutuapp.net/apps/zb/003/29/14/64/5bdbe2f61a2ab4e161b8344a.ipa?md=2ca1a3b22bb5e042c370aa192c49527a</string>
 				</dict>
 				<dict>
 					<key>kind</key>
